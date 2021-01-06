@@ -6,7 +6,7 @@ textwin print "/(is10)/(ildata/gui/icons/Schubkarren.tga)"
 // ---- text starts here - do not change anything above this line ---
 
 ohlp_ttheadlinestyle
-textwin print "Trakao"
+textwin print "Trakaø"
 ohlp_tttextbodystyle
 textwin print "Finally the dwarfs must not wear anything on her back. This barrow will facilitate the life of your dwarves. They will thank you!"
 
